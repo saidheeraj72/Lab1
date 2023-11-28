@@ -1,5 +1,4 @@
-// CS21B2019
-// Devarakonda SLR Siddesh
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
