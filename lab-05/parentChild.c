@@ -1,4 +1,4 @@
-// CS21B2019 Devarakonda SLR Siddesh
+
 #include <stdio.h>
 #include <unistd.h>     // header file for fork(), getpid(), getppid(), sleep(), etc.
 #include <sys/types.h>  // header file for data types pid_t, ssize_t, time_t, useconds_t, size_t, clock_t, etc.
