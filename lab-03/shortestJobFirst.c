@@ -1,5 +1,3 @@
-// CS21B2019 DEVARAKONDA SLR SIDDESH
-
 // 1. Write a C program to implement the Shortest Job First Scheduling Algorithm.
 // (i) Take input from the user only once (Process_id, Arrival Time, Burst Time) and apply SJF.
 // (ii) Your algorithm should work for both scenarios: (a) all tasks arrive at the same time (b) tasks may arrive at a different time.
