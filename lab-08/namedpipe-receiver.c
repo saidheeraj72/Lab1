@@ -1,5 +1,3 @@
-// Roll: CS21B2019
-// Name: Devarakonda SLR Siddesh
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
