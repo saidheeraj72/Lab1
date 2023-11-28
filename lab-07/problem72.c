@@ -1,5 +1,3 @@
-// CS21B2019 DEVARAKONDA SLR SIDDESH
-
 // A parent process creates a child process and the child process creates a grandchild process. 
 // The parent creates a pipe that is shared between the parent and the child. 
 // The parent writes a message to the pipe and the child reads it from the pipe. 
