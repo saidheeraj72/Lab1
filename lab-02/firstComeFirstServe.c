@@ -1,4 +1,3 @@
-//CS21B2019 DSLR SIDDESH
 
 // Write a C program to implement First Come First Serve CPU Scheduling Algorithm.
 // (i) Take input from the user only once (Process_id, Arrival Time, Burst Time) and apply FCFS.
