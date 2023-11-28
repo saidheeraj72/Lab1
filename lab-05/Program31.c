@@ -1,5 +1,3 @@
-// CS21B2019 DEVARAKONDA SLR SIDDESH
-
 // Write two programs (Given Program31.c and Program32.c).
 // For Program31.c:
 // In Parent Process:
