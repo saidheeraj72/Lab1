@@ -1,6 +1,3 @@
-// Roll: CS21B2019
-// Name: Devarakonda SLR Siddesh
-
 // Write two different programs (Sender and Receiver) in C to demonstrate IPC using message queue. 
 // Process "Sender.c" will take input of atleast 10 numbers and share these numbers with the "Receiver.c" process 
 // using message queue. The "Receiver.c" will check each numbers and displays 
