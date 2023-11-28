@@ -1,4 +1,4 @@
-// CS21B2019 DEVARAKONDA SLR SIDDESH
+
 
 // Priority Algorithm for Preemptive Scheduling
 // 1. Implement a preemptive priority scheduling approach.
